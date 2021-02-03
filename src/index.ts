@@ -31,4 +31,9 @@ console.log(isUserSignedIn('DEF'))
 isUserSignedIn2('DEF')
 
 // レストパラメーターを持つ関数
-console.log(sumProductsPrice(1, 2, 3))
+console.log(sumProductsPrice(1, 2, 3));
+
+// オブジェクト
+import object from './object/Object';
+object();
+
